@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test Drago",
+    "owner": "Stephan Torres",
+    "description": "Testing"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test Dragon",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
